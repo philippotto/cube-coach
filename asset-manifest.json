@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://philippotto.github.io/cube-coach/static/css/main.5944d88b.chunk.css",
+    "main.js": "https://philippotto.github.io/cube-coach/static/js/main.e869529e.chunk.js",
+    "main.js.map": "https://philippotto.github.io/cube-coach/static/js/main.e869529e.chunk.js.map",
+    "runtime-main.js": "https://philippotto.github.io/cube-coach/static/js/runtime-main.a212375a.js",
+    "runtime-main.js.map": "https://philippotto.github.io/cube-coach/static/js/runtime-main.a212375a.js.map",
+    "static/css/2.2fb1630a.chunk.css": "https://philippotto.github.io/cube-coach/static/css/2.2fb1630a.chunk.css",
+    "static/js/2.72d83a04.chunk.js": "https://philippotto.github.io/cube-coach/static/js/2.72d83a04.chunk.js",
+    "static/js/2.72d83a04.chunk.js.map": "https://philippotto.github.io/cube-coach/static/js/2.72d83a04.chunk.js.map",
+    "index.html": "https://philippotto.github.io/cube-coach/index.html",
+    "service-worker.js": "https://philippotto.github.io/cube-coach/service-worker.js",
+    "service-worker.js.map": "https://philippotto.github.io/cube-coach/service-worker.js.map",
+    "static/css/2.2fb1630a.chunk.css.map": "https://philippotto.github.io/cube-coach/static/css/2.2fb1630a.chunk.css.map",
+    "static/css/main.5944d88b.chunk.css.map": "https://philippotto.github.io/cube-coach/static/css/main.5944d88b.chunk.css.map",
+    "static/js/2.72d83a04.chunk.js.LICENSE.txt": "https://philippotto.github.io/cube-coach/static/js/2.72d83a04.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a212375a.js",
+    "static/css/2.2fb1630a.chunk.css",
+    "static/js/2.72d83a04.chunk.js",
+    "static/css/main.5944d88b.chunk.css",
+    "static/js/main.e869529e.chunk.js"
+  ]
+}
